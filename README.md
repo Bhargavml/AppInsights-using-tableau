@@ -50,6 +50,12 @@ The dataset includes the following attributes:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
+
+---
+
 ## Tools Used
 
 * Tableau Public
